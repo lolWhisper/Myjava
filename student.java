@@ -1,5 +1,7 @@
 import java.util.*;
 public class student{
-	String  name;
-	String  address;
+	   string name;
+	   string address;
+	   string email;   //ĞŞ¸ÄµÄÄÚÈİ
+
 }
